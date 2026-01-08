@@ -1,0 +1,6 @@
+Date	Description	Name	Category	Credit	Debit	Balance	Currency
+10/27/2025	Real Time Payment From Amazon.com 10/25 20251025021000021p1brjpc03960008368	Amazon Marketplace Payments		4,685.33		34,587.86	USD
+10/27/2025	Electronic Deposit 10/27 Afterpay 1217	AfterPay	ENTERTAINMENT_TV_AND_MOVIES, ENTERTAINMENT, GENERAL_MERCHANDISE_ONLINE_MARKETPLACES, ENTERTAINMENT_VIDEO_GAMES	2,258.80		29,902.53	USD
+10/27/2025	Electronic Deposit 10/27 Shopify	Marketplace Payments	ONLINE_MARKETPLACES	4,204.92		27,643.73	USD
+10/27/2025	Real Time Payment From Amazon.com 10/26 20251026021000021p1brjpc08240016772	Amazon Marketplace Payments		5,755.01		23,438.81	USD
+10/27/2025	Internet Banking Payment To Credit Line 10/25 6953	LOAN_PAYMENTS_CREDIT_CARD_PAYMENT		(3,264.65)		17,683.80	USD
