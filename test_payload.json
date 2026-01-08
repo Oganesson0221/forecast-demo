@@ -1,0 +1,4 @@
+{
+  "data": "Date\tDescription\tName\tCategory\tCredit\tDebit\tBalance\tCurrency\n10/27/2025\tTest\tTest\tTEST\t100\t50\t1000\tUSD\n10/28/2025\tTest\tTest\tTEST\t200\t100\t1100\tUSD",
+  "forecast_days": 7
+}
